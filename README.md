@@ -60,7 +60,3 @@ The interactive dashboard was built using **Tableau** to visualize customer feed
 
 ---
 
-## 🚀 How to Use  
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/airlines-review-dashboard.git
