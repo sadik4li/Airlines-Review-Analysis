@@ -56,7 +56,7 @@ The interactive dashboard was built using **Tableau** to visualize customer feed
 
 ## 📷 Dashboard Preview  
 
-![Dashboard Screenshot](Screenshot%202025-08-19%20161957.png)  
+![Dashboard Screenshot]([Screenshot%202025-08-19%20161957.png](https://github.com/sadik4li/Airlines-Review-Analysis/commit/3ffbb7f3ab4706951be8cf9da156b5372a726211))  
 
 ---
 
